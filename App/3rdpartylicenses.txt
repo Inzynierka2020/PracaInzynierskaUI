@@ -97,10 +97,6 @@ THE SOFTWARE.
 
 @angular/material/form-field
 
-@angular/material/radio
-
-@angular/material/table
-
 @angular/material/tabs
 
 @angular/material/toolbar
